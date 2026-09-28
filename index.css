@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+#wrapper
+{
+    width: 1400px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color:slateblue;
+}
+
+#right-column
+{
+    float:right;
+    width: 200px;
+    height:600px;
+}
