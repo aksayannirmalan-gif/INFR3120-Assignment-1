@@ -1,5 +1,11 @@
 @charset "UTF-8";
 
+#banner h1
+{
+
+   
+}
+
 #wrapper
 {
     width: 1400px;
@@ -9,9 +15,16 @@
     background-color:slateblue;
 }
 
-#right-column
+#body
 {
-    float:right;
-    width: 200px;
-    height:600px;
+    background:yellow;
+    padding: 0px;
+    margin: 0px;
+}
+
+#footer
+{
+
+    height:100px;
+    background-color:purple;
 }
